@@ -1,0 +1,24 @@
+body{ font-family: ;'Open Sans', sans-serif;
+margin:0;
+padding: 0
+border:0;
+
+background-color: black;
+    
+}
+
+
+.carousel-inner img{
+    max-height: 79vh;
+ object-fit: cover;
+
+}
+
+
+.izquerda{
+    text-align: left;
+}
+
+.letra{
+    font-size: small;
+}
